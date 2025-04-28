@@ -1,4 +1,5 @@
-## **`👨🏽‍💻 Luan Sobral`**
+## **`👨🏽‍💻Luan Sobral`**
+ 
 **`Dev em formação`**
 
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e estou em constante processo de aprendizado em linguagens de programação.
@@ -16,7 +17,7 @@ Busco constantemente evoluir minhas habilidades para futuramente atuar como dese
 </div>
 
 
-## **`👾 Linguagens e Tecnologias`**
+## **`👾 Linguagens`**
 
 <img 
     align="left" 
@@ -58,5 +59,8 @@ Busco constantemente evoluir minhas habilidades para futuramente atuar como dese
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<br>
 
+## **`📈 Desempenho`**
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luan-Sobral&theme=transparent&hide_border=falso&locale=pt_BR&short_numbers=falso&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=490&card_height=150)](https://git.io/streak-stats)
