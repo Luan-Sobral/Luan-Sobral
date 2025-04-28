@@ -7,6 +7,14 @@ Sou apaixonado por tecnologia e inovação! 🖥️
 Aqui você vai encontrar alguns projetos meus. Fique à vontade para dar uma olhada e compartilhar o que achou.
 Busco constantemente evoluir minhas habilidades para futuramente atuar como desenvolvedor. 🤜🤛
 
+ ## **`Contato`** 
+<div> 
+  <a href="https://instagram.com/ln_vns" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vinipereira293@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luan-oliveira-tecno-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
 
 ## **`Linguagens e Tecnologias 👾`**
 
@@ -55,7 +63,7 @@ Busco constantemente evoluir minhas habilidades para futuramente atuar como dese
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## **`Estatísticas`**
 
 <p>
   <img 
