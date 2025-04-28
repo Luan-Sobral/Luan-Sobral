@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Olá! Me chamo Luan, tenho 25 anos e estou cursando Análise e Desenvolvimento de Sistemas. Estou em constante processo de aprendizado em linguagens de programação, uma área pela qual tenho grande identificação e carinho.<br><br>Aqui, você encontrará alguns dos meus projetos. Fique à vontade para explorar e compartilhar o que achou! Estou sempre buscando evoluir minhas habilidades para, futuramente, atuar como desenvolvedor.</p>
+<p align="left">Olá! Eu chamo Luan e tenho 25 anos.<br>Atualmente estou cursando Análise e Desenvolvimento de Sistemas e estou em constante processo de aprendizado em linguagens de programação, já que é uma área que eu me identifico muito e tenho um imenso carinho.<br><br>Aqui você vai encontrar alguns projetos meus. Fique à vontade para dar uma olhada e compartilhar o que achou. Busco evoluir constantemente minhas habilidades para futuramente atuar como desenvolvedor.</p>
 
 ###
 
@@ -58,6 +58,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Luan-Sobral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luan-Sobral&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luan-Sobral&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false&custom_title=MEU%20GR%C3%81FICO" height="300" alt="activity-graph graph"  />
 </div>
 
