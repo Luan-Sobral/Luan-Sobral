@@ -58,7 +58,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Luan-Sobral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luan-Sobral&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="109" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luan-Sobral&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="130" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luan-Sobral&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false&custom_title=MEU%20GR%C3%81FICO" height="200" alt="activity-graph graph"  />
 </div>
 
