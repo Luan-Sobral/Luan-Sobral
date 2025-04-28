@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Eu chamo Luan e tenho 25 anos.<br>Atualmente estou cursando Análise e Desenvolvimento de Sistemas e estou em constante processo de aprendizado em linguagens de programação, já que é uma área que eu me identifico muito e tenho um imenso carinho.<br><br>Aqui você vai encontrar alguns projetos meus. Fique à vontade para dar uma olhada e compartilhar o que achou. Busco evoluir constantemente minhas habilidades para futuramente atuar como desenvolvedor.</p>
+<p align="left">Olá! Me chamo Luan, tenho 25 anos e estou cursando Análise e Desenvolvimento de Sistemas. Estou em constante processo de aprendizado em linguagens de programação, uma área pela qual tenho grande identificação e carinho.<br><br>Aqui, você encontrará alguns dos meus projetos. Fique à vontade para explorar e compartilhar o que achou! Estou sempre buscando evoluir minhas habilidades para, futuramente, atuar como desenvolvedor.</p>
 
 ###
 
