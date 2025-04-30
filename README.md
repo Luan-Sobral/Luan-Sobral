@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-fdec-61f7-ab7c-20d445e7cf0d/raw?se=2025-04-30T13%3A48%3A04Z&sp=r&sv=2024-08-04&sr=b&scid=d8f2f604-0206-5252-aac2-b0503da5f1b4&skoid=b53ae837-f585-4db7-b46f-2d0322fce5a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-30T04%3A47%3A34Z&ske=2025-05-01T04%3A47%3A34Z&sks=b&skv=2024-08-04&sig=tTLhUC9A%2BlHOEjB5d/m5XtHN3MJbvl0LCMJ9GAUvfHo%3D"  />
-
-###
-
 <p align="left">Olá! Eu chamo Luan e tenho 25 anos.<br>Atualmente estou cursando Análise e Desenvolvimento de Sistemas e estou em constante processo de aprendizado em linguagens de programação, já que é uma área que eu me identifico muito e tenho um imenso carinho.<br><br>Aqui você vai encontrar alguns projetos meus. Fique à vontade para dar uma olhada e compartilhar o que achou. Busco evoluir constantemente minhas habilidades para futuramente atuar como desenvolvedor.</p>
 
 ###
